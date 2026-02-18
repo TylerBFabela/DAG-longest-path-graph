@@ -19,7 +19,4 @@
 *.key
 .ssh/
 id_rsa
-id_ed25519.ssh/
-*.pem
-*.key
 id_ed25519
