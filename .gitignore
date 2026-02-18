@@ -13,3 +13,10 @@
 
 # macOS
 .DS_Store
+
+# Ignore SSH keys
+*.pem
+*.key
+.ssh/
+id_rsa
+id_ed25519
