@@ -1,4 +1,4 @@
-# 🏗️ DAG Graph – Java Dependency & Scheduling Engine
+# DAG Graph – Java Dependency & Scheduling Engine
 
 A lightweight, extensible Java framework for modeling directed dependencies and calculating task schedules.
 
@@ -79,7 +79,7 @@ All edge cases, cycles, and scheduling scenarios are covered in GraphTest.java.
 
 ---
 
-### 🔹 What This Demonstrates
+### 🔹 Skills Demonstrated
 
 - Object-Oriented Design: clean separation between graph and vertex logic
 
